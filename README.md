@@ -1,6 +1,7 @@
 # MIT-Final-Project
+This is my project for my masters program in UNILAG. I created a Learning Management System that can be customized by any learning environment: Primary school, Secondary or University. The code is written in PHP and Javascript with MySQL as database.
 
-To access the code first create a database named "capstone" and import all the tables from the database in the "db" folder which is inside "lms" folder
+To install the code first install WAMP server then create a database named "capstone" and import all the tables from the database in the capstone.sql inside the "db" folder. Then copy all the files into the www folder of the WAMP server.
 
 The functions of this system are:
 
@@ -27,7 +28,7 @@ For the Teacher User of the System
 •Message co teacher or students
 
 Example user for teacher
-Username: sagay
+Username: Sagay
 Password: pass
 
 For the Student user of the system
