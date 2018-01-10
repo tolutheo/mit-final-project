@@ -24,7 +24,7 @@
 						{
 						$.jGrowl("Welcome to the University Learning Management System", { header: 'Access Granted' });
 						var delay = 2000;
-							setTimeout(function(){ window.location = 'dashboard.php'  }, delay);  
+							setTimeout(function(){ window.location = 'subjects.php'  }, delay);  
 						}
 						else
 						{

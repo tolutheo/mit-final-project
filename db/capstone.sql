@@ -6,7 +6,7 @@
 -- Generation Time: Jan 10, 2018 at 10:36 AM
 -- Server version: 5.7.19
 -- PHP Version: 5.6.31
--- Theophilus Ajayi
+-- Author: Theophilus Ajayi
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 SET AUTOCOMMIT = 0;
