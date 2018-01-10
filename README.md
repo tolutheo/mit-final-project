@@ -1,4 +1,7 @@
-# mit-final-project
+# MIT-Final-Project
+
+To access the code first create a database named "capstone" and import all the tables from the database in the "db" folder which is inside "lms" folder
+
 The functions of this system are:
 
 For the admin side of the system
